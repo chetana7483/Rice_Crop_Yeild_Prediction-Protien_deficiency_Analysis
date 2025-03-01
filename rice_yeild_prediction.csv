@@ -1,0 +1,511 @@
+Region	Illness Caused	Weather	Soil Type	Rice Variety	Soil pH	Nitrogen Fertilizer Used (kg/ha)	Water Availability	Temperature (Â°C)	Rainfall (mm/month)	Yield (kg/ha)	Protein Deficiency Severity
+Southeast Asia	Stunted Growth	Hot and Dry	Loamy	IR64	5.5	120	Low	35	50	3500	Severe
+South India	Leaf Yellowing	Warm and Humid	Clayey	Basmati	6	80	Medium	30	150	4500	Moderate
+Central Africa	Poor Grain Filling	Rainy	Sandy	Jasmine	5.8	100	High	28	250	4000	Mild
+East Asia	Reduced Grain Size	Temperate	Alluvial	IR36	6.2	140	High	25	200	5500	Mild
+South America	Yellowing Leaves	Dry and Hot	Silty	Rio Grande	5.7	90	Low	36	75	3800	Severe
+Southeast Asia	Stunted Growth	Hot and Dry	Loamy	Swarna	5.9	110	Medium	32	180	4200	Moderate
+West Africa	Weak Straw	Humid	Clayey	WAB-56	6.1	85	Medium	27	220	4000	Moderate
+South Asia	Leaf Curling	Hot and Dry	Loamy	MTU 1010	6.3	100	High	34	90	4700	Mild
+Central America	Poor Grain Filling	Wet and Cloudy	Sandy	TKM 9	5.6	75	Medium	26	300	3900	Moderate
+East Africa	Stunted Growth	Hot and Dry	Silty	Pusa Basmati	5.5	120	Low	38	60	3500	Severe
+Southeast Asia	Weak Straw	Rainy	Silty	WAB-56	6.1	59	Low	40	187	5197	Severe
+Central Africa	Reduced Grain Size	Warm and Humid	Sandy	IR64	7.4	113	High	40	118	3552	Mild
+Central America	Reduced Grain Size	Temperate	Clayey	IR64	6.5	131	High	40	280	4614	Moderate
+Southeast Asia	Leaf Yellowing	Warm and Humid	Alluvial	Pusa Basmati	5.3	123	High	29	148	5028	Moderate
+East Africa	Stunted Growth	Humid	Sandy	IR36	5.4	117	Medium	31	103	4805	Moderate
+South America	Reduced Grain Size	Temperate	Clayey	MTU 1010	6.1	84	Medium	36	295	4254	Mild
+Southeast Asia	Yellowing Leaves	Hot and Dry	Loamy	Pusa Basmati	7.4	52	Medium	25	285	4157	Severe
+Central America	Leaf Yellowing	Wet and Cloudy	Clayey	TKM 9	5.4	129	Low	35	139	5164	Mild
+East Africa	Leaf Yellowing	Humid	Sandy	MTU 1010	5.6	137	Low	33	95	3626	Moderate
+East Africa	Poor Grain Filling	Rainy	Loamy	IR36	6.2	131	Medium	26	159	3603	Severe
+South America	Yellowing Leaves	Wet and Cloudy	Clayey	Basmati	5.6	107	Medium	34	255	4644	Moderate
+South India	Weak Straw	Dry and Hot	Clayey	MTU 1010	6.2	58	Medium	29	86	5410	Moderate
+East Asia	Reduced Grain Size	Rainy	Silty	IR36	5.2	88	Medium	28	292	3862	Moderate
+Central Africa	Leaf Yellowing	Wet and Cloudy	Sandy	MTU 1010	6	59	Medium	29	121	5135	Moderate
+Central America	Poor Grain Filling	Wet and Cloudy	Alluvial	Basmati	5.7	138	Medium	37	97	4363	Severe
+South Asia	Yellowing Leaves	Temperate	Sandy	IR64	7.4	130	Low	27	144	4656	Moderate
+South America	Stunted Growth	Hot and Dry	Loamy	Swarna	6	136	Medium	33	83	4220	Moderate
+East Asia	Weak Straw	Rainy	Silty	WAB-56	6	65	Medium	28	114	5104	Mild
+East Africa	Yellowing Leaves	Warm and Humid	Sandy	Pusa Basmati	7.5	103	Medium	30	200	4388	Moderate
+West Africa	Reduced Grain Size	Hot and Dry	Clayey	IR36	5.9	114	High	34	74	4091	Moderate
+South Asia	Poor Grain Filling	Temperate	Loamy	MTU 1010	6.3	51	High	34	165	3965	Severe
+East Africa	Poor Grain Filling	Hot and Dry	Silty	MTU 1010	6.7	134	Low	37	62	4049	Mild
+West Africa	Weak Straw	Dry and Hot	Silty	IR36	6.3	61	Medium	27	93	4126	Mild
+West Africa	Poor Grain Filling	Rainy	Clayey	Pusa Basmati	5.8	84	Low	35	165	5045	Mild
+South America	Stunted Growth	Dry and Hot	Loamy	TKM 9	5.3	120	High	25	148	4715	Moderate
+East Asia	Leaf Curling	Dry and Hot	Silty	IR64	5.3	80	Medium	35	146	4006	Severe
+Central America	Leaf Curling	Humid	Silty	Pusa Basmati	5.9	112	Low	40	282	4117	Severe
+East Africa	Weak Straw	Dry and Hot	Sandy	Basmati	5.4	51	Medium	37	197	5489	Moderate
+East Africa	Reduced Grain Size	Wet and Cloudy	Sandy	TKM 9	5.8	86	High	27	131	5217	Severe
+Southeast Asia	Leaf Yellowing	Humid	Loamy	TKM 9	7	76	Low	36	254	4936	Moderate
+East Asia	Weak Straw	Humid	Clayey	WAB-56	5.5	85	Medium	34	58	4640	Severe
+South America	Reduced Grain Size	Wet and Cloudy	Clayey	MTU 1010	6.1	81	Low	25	102	3641	Mild
+Southeast Asia	Yellowing Leaves	Dry and Hot	Clayey	IR64	5.5	54	Low	29	133	4171	Mild
+East Asia	Weak Straw	Wet and Cloudy	Alluvial	Basmati	5	127	Low	35	234	4129	Mild
+West Africa	Stunted Growth	Warm and Humid	Clayey	Pusa Basmati	7	106	Medium	36	97	3784	Mild
+East Africa	Stunted Growth	Temperate	Alluvial	Jasmine	6.5	60	Low	32	287	5051	Severe
+West Africa	Leaf Curling	Wet and Cloudy	Loamy	WAB-56	6.7	100	Medium	25	73	5292	Severe
+South America	Poor Grain Filling	Rainy	Silty	Basmati	6.2	149	Low	38	264	4522	Severe
+East Asia	Weak Straw	Humid	Silty	Pusa Basmati	5.8	122	High	26	230	4497	Moderate
+East Asia	Poor Grain Filling	Humid	Silty	TKM 9	6.5	65	Medium	25	283	5210	Mild
+Southeast Asia	Leaf Yellowing	Warm and Humid	Alluvial	Basmati	6.7	60	High	39	119	4037	Mild
+East Asia	Yellowing Leaves	Warm and Humid	Loamy	Pusa Basmati	5.9	90	Low	38	67	5276	Severe
+South Asia	Leaf Curling	Hot and Dry	Alluvial	MTU 1010	6.4	75	Medium	25	218	4255	Severe
+West Africa	Weak Straw	Wet and Cloudy	Clayey	Jasmine	6.4	73	High	35	218	4773	Mild
+West Africa	Leaf Curling	Humid	Alluvial	Swarna	6.1	140	Low	35	146	4309	Severe
+South America	Reduced Grain Size	Temperate	Sandy	IR36	5.7	73	Low	35	216	4686	Severe
+South Asia	Yellowing Leaves	Rainy	Silty	TKM 9	6.6	101	Medium	38	185	5447	Severe
+East Africa	Leaf Yellowing	Dry and Hot	Silty	IR64	7.1	81	Medium	38	74	4703	Mild
+South America	Stunted Growth	Wet and Cloudy	Sandy	TKM 9	5.5	117	High	35	53	5012	Moderate
+South America	Stunted Growth	Dry and Hot	Clayey	IR36	6	100	High	36	74	5066	Moderate
+Central America	Poor Grain Filling	Warm and Humid	Alluvial	Swarna	6.2	134	High	30	50	4489	Mild
+West Africa	Leaf Curling	Humid	Clayey	MTU 1010	7.4	86	High	40	239	3700	Severe
+East Asia	Leaf Yellowing	Wet and Cloudy	Clayey	IR36	7.5	78	Medium	38	228	4906	Severe
+Central Africa	Leaf Curling	Dry and Hot	Sandy	Basmati	5.7	145	Low	32	250	4278	Moderate
+South Asia	Poor Grain Filling	Humid	Sandy	Swarna	7	101	Low	31	231	3569	Mild
+Central America	Weak Straw	Wet and Cloudy	Alluvial	Jasmine	5.8	138	High	32	232	5157	Mild
+South India	Poor Grain Filling	Temperate	Sandy	MTU 1010	5.4	138	Medium	39	134	4079	Severe
+Central America	Weak Straw	Temperate	Clayey	MTU 1010	7.2	107	Low	31	276	4879	Moderate
+West Africa	Weak Straw	Wet and Cloudy	Sandy	IR36	5.4	56	Medium	29	259	3713	Mild
+West Africa	Weak Straw	Rainy	Clayey	IR64	5.2	67	High	28	67	4339	Severe
+Central America	Yellowing Leaves	Humid	Alluvial	Basmati	5.6	122	Medium	29	71	4843	Severe
+South India	Poor Grain Filling	Temperate	Alluvial	Basmati	7	50	High	31	181	5057	Severe
+South Asia	Yellowing Leaves	Wet and Cloudy	Alluvial	IR36	7.2	100	Medium	29	220	4269	Moderate
+South Asia	Reduced Grain Size	Wet and Cloudy	Clayey	Jasmine	6.2	139	Medium	38	191	3569	Mild
+South America	Poor Grain Filling	Dry and Hot	Sandy	IR36	7.4	122	High	39	175	4867	Severe
+East Asia	Leaf Curling	Dry and Hot	Loamy	Jasmine	6.8	92	Low	33	75	4941	Moderate
+Southeast Asia	Leaf Curling	Dry and Hot	Loamy	IR36	5.9	135	Low	40	76	3844	Severe
+South Asia	Leaf Curling	Temperate	Sandy	MTU 1010	6	139	High	37	135	5080	Mild
+Central America	Weak Straw	Hot and Dry	Clayey	MTU 1010	6.1	103	Low	29	238	5265	Moderate
+Central Africa	Poor Grain Filling	Hot and Dry	Sandy	IR64	7	140	High	29	138	4240	Severe
+Central America	Poor Grain Filling	Wet and Cloudy	Sandy	Swarna	5.9	77	High	36	87	4871	Mild
+South Asia	Poor Grain Filling	Dry and Hot	Sandy	Basmati	6.5	92	Medium	25	241	3767	Severe
+East Africa	Leaf Yellowing	Humid	Silty	WAB-56	7	139	High	33	66	4272	Severe
+East Asia	Stunted Growth	Humid	Sandy	MTU 1010	6.9	51	Medium	35	280	3918	Moderate
+Southeast Asia	Reduced Grain Size	Hot and Dry	Loamy	Pusa Basmati	6.6	99	Low	30	193	4108	Severe
+Southeast Asia	Poor Grain Filling	Dry and Hot	Sandy	IR64	7.4	105	Medium	33	255	3714	Severe
+South India	Weak Straw	Hot and Dry	Loamy	Basmati	5.4	146	High	38	291	4353	Moderate
+South America	Leaf Curling	Dry and Hot	Alluvial	Swarna	5.2	130	Medium	39	188	3687	Severe
+Central America	Stunted Growth	Wet and Cloudy	Clayey	MTU 1010	6.5	147	High	39	52	4623	Mild
+East Asia	Weak Straw	Rainy	Alluvial	TKM 9	7.3	66	High	39	62	4950	Mild
+Central America	Leaf Curling	Temperate	Loamy	MTU 1010	7.2	145	Medium	36	105	3670	Mild
+Southeast Asia	Reduced Grain Size	Warm and Humid	Alluvial	MTU 1010	5.7	80	Low	38	287	4151	Mild
+East Asia	Weak Straw	Dry and Hot	Sandy	Jasmine	6.4	105	High	26	220	4941	Moderate
+Southeast Asia	Leaf Curling	Temperate	Clayey	MTU 1010	5.4	115	Low	26	99	4839	Mild
+South India	Yellowing Leaves	Humid	Alluvial	Swarna	6.2	95	Medium	39	125	4041	Moderate
+Central America	Stunted Growth	Dry and Hot	Loamy	WAB-56	6.4	54	Medium	39	74	4208	Severe
+Central Africa	Yellowing Leaves	Hot and Dry	Alluvial	MTU 1010	6.6	80	Low	35	62	3779	Mild
+Central America	Poor Grain Filling	Hot and Dry	Silty	Swarna	5.3	87	Low	31	262	4836	Mild
+East Africa	Leaf Yellowing	Temperate	Clayey	Pusa Basmati	6	60	Medium	39	56	4896	Severe
+East Africa	Weak Straw	Temperate	Silty	TKM 9	6.9	59	Medium	35	285	5246	Severe
+South India	Leaf Yellowing	Rainy	Alluvial	Jasmine	6.7	111	Medium	40	264	3962	Moderate
+Central Africa	Leaf Yellowing	Rainy	Sandy	TKM 9	6.9	148	Medium	28	74	3908	Severe
+South India	Poor Grain Filling	Temperate	Clayey	IR64	5.4	122	Medium	26	191	3956	Severe
+South India	Leaf Curling	Wet and Cloudy	Silty	IR64	5.8	142	Low	28	235	3962	Moderate
+Southeast Asia	Reduced Grain Size	Rainy	Silty	Jasmine	5.7	51	Low	38	218	5222	Mild
+Central America	Yellowing Leaves	Dry and Hot	Alluvial	IR36	6.9	65	High	27	276	3733	Mild
+Southeast Asia	Weak Straw	Humid	Silty	MTU 1010	5.3	76	High	29	67	4664	Mild
+East Asia	Reduced Grain Size	Wet and Cloudy	Silty	Swarna	7.3	120	Medium	38	79	4772	Mild
+Central America	Reduced Grain Size	Hot and Dry	Silty	Swarna	5.7	147	Medium	31	146	5045	Moderate
+Central Africa	Leaf Curling	Humid	Clayey	WAB-56	7.2	98	Low	40	116	4307	Severe
+South India	Stunted Growth	Temperate	Clayey	WAB-56	6.2	140	Medium	32	208	3730	Mild
+South America	Leaf Yellowing	Wet and Cloudy	Sandy	Jasmine	7.3	118	Medium	30	195	4368	Mild
+South America	Poor Grain Filling	Humid	Silty	Pusa Basmati	7	109	Low	30	280	5103	Severe
+South Asia	Weak Straw	Hot and Dry	Silty	Basmati	5.3	82	Medium	36	220	5054	Severe
+Central Africa	Stunted Growth	Warm and Humid	Alluvial	TKM 9	7.5	92	High	40	279	4337	Mild
+South Asia	Stunted Growth	Rainy	Alluvial	IR36	6.6	91	Medium	38	99	3680	Mild
+East Asia	Yellowing Leaves	Temperate	Sandy	TKM 9	6.3	79	Low	35	220	5306	Moderate
+South America	Stunted Growth	Humid	Alluvial	Swarna	5.9	109	Low	26	175	4713	Moderate
+East Africa	Yellowing Leaves	Wet and Cloudy	Silty	Pusa Basmati	6.9	70	Medium	34	110	3906	Mild
+South India	Stunted Growth	Warm and Humid	Clayey	WAB-56	5.3	118	Low	35	289	4558	Severe
+Southeast Asia	Poor Grain Filling	Warm and Humid	Alluvial	WAB-56	7	126	High	37	185	3738	Mild
+Central Africa	Leaf Curling	Temperate	Alluvial	WAB-56	5.6	102	Medium	29	107	4100	Severe
+Southeast Asia	Yellowing Leaves	Warm and Humid	Alluvial	IR36	6.6	150	High	38	104	4914	Mild
+Central America	Leaf Curling	Rainy	Loamy	Jasmine	6.5	62	Medium	25	202	3953	Mild
+South Asia	Leaf Yellowing	Dry and Hot	Silty	WAB-56	6.9	111	Low	35	266	4119	Moderate
+East Africa	Leaf Curling	Warm and Humid	Clayey	IR36	5.5	148	Medium	31	207	3906	Mild
+East Africa	Leaf Curling	Wet and Cloudy	Sandy	TKM 9	5.7	132	High	32	113	4200	Mild
+Central Africa	Leaf Yellowing	Rainy	Loamy	Jasmine	5.3	105	High	40	186	5318	Moderate
+Southeast Asia	Reduced Grain Size	Wet and Cloudy	Sandy	IR64	6.9	91	Low	39	88	4840	Moderate
+West Africa	Weak Straw	Warm and Humid	Clayey	Basmati	7	108	Medium	26	213	3970	Severe
+East Asia	Leaf Curling	Hot and Dry	Loamy	WAB-56	5.9	67	Low	32	206	4376	Severe
+South India	Leaf Curling	Hot and Dry	Loamy	Jasmine	7.2	140	Low	33	291	4797	Moderate
+South Asia	Reduced Grain Size	Temperate	Clayey	Swarna	6.2	141	Low	34	292	4995	Mild
+South Asia	Leaf Curling	Rainy	Sandy	MTU 1010	5.6	102	High	30	124	5117	Mild
+South India	Reduced Grain Size	Dry and Hot	Clayey	Swarna	5.2	119	High	33	77	3721	Severe
+South Asia	Poor Grain Filling	Warm and Humid	Sandy	Swarna	7.1	101	High	31	207	4812	Mild
+Southeast Asia	Poor Grain Filling	Hot and Dry	Loamy	Swarna	6.1	139	Medium	28	219	3951	Mild
+Southeast Asia	Leaf Yellowing	Wet and Cloudy	Silty	Swarna	6.2	94	Medium	36	248	3754	Mild
+Central America	Poor Grain Filling	Hot and Dry	Alluvial	Swarna	5.9	86	Medium	27	234	4447	Mild
+South America	Poor Grain Filling	Temperate	Loamy	IR36	7.1	114	Medium	35	229	5394	Moderate
+South America	Yellowing Leaves	Warm and Humid	Sandy	IR64	6.6	59	Medium	34	131	4167	Mild
+South Asia	Yellowing Leaves	Dry and Hot	Alluvial	Pusa Basmati	6.3	140	High	33	232	4553	Mild
+Southeast Asia	Stunted Growth	Warm and Humid	Loamy	TKM 9	5.3	138	High	39	191	4209	Moderate
+West Africa	Yellowing Leaves	Hot and Dry	Sandy	Jasmine	6.2	124	High	29	278	3810	Mild
+Southeast Asia	Leaf Curling	Dry and Hot	Sandy	Swarna	6.6	69	Medium	39	86	4489	Severe
+East Asia	Stunted Growth	Rainy	Loamy	WAB-56	7	120	Medium	29	77	3529	Severe
+West Africa	Poor Grain Filling	Humid	Alluvial	IR64	7.2	132	Low	30	117	4188	Severe
+South Asia	Leaf Yellowing	Temperate	Clayey	Swarna	7.5	100	High	30	81	4143	Mild
+Southeast Asia	Weak Straw	Wet and Cloudy	Alluvial	Swarna	6.6	136	Low	39	123	5053	Mild
+East Asia	Leaf Curling	Wet and Cloudy	Loamy	Basmati	7.4	126	Medium	40	103	3972	Mild
+South Asia	Leaf Yellowing	Hot and Dry	Loamy	Basmati	6.7	108	Medium	29	240	3971	Moderate
+South India	Leaf Curling	Warm and Humid	Alluvial	Pusa Basmati	5.9	92	Medium	29	195	4033	Moderate
+South India	Yellowing Leaves	Wet and Cloudy	Sandy	TKM 9	5.3	84	High	27	154	5380	Mild
+South India	Yellowing Leaves	Wet and Cloudy	Silty	Pusa Basmati	5.1	62	Medium	34	248	4148	Moderate
+Southeast Asia	Leaf Yellowing	Wet and Cloudy	Clayey	Swarna	6.2	86	High	28	73	5240	Severe
+South America	Yellowing Leaves	Rainy	Sandy	TKM 9	7.2	51	Low	28	240	5000	Moderate
+South America	Weak Straw	Rainy	Loamy	Pusa Basmati	7	79	Medium	39	96	4527	Severe
+Central America	Weak Straw	Wet and Cloudy	Loamy	Jasmine	6.6	124	Low	33	299	3761	Moderate
+East Africa	Poor Grain Filling	Humid	Loamy	TKM 9	7.4	77	Low	27	243	5324	Mild
+South India	Leaf Curling	Warm and Humid	Silty	Swarna	5.5	96	Medium	30	151	4005	Mild
+Southeast Asia	Yellowing Leaves	Dry and Hot	Loamy	Jasmine	5.4	144	Medium	25	82	3535	Mild
+Central America	Stunted Growth	Hot and Dry	Loamy	Swarna	6	105	Low	36	92	4650	Moderate
+South Asia	Yellowing Leaves	Dry and Hot	Alluvial	Basmati	6.6	110	Low	35	81	4646	Severe
+East Africa	Poor Grain Filling	Warm and Humid	Sandy	IR36	5.6	138	Medium	26	57	3746	Moderate
+Central Africa	Reduced Grain Size	Dry and Hot	Loamy	Swarna	5.3	114	Medium	40	184	4317	Severe
+Central America	Leaf Curling	Dry and Hot	Loamy	Swarna	5.9	129	Low	28	227	4110	Severe
+Southeast Asia	Yellowing Leaves	Temperate	Loamy	IR36	5.5	125	Low	25	201	3667	Mild
+West Africa	Poor Grain Filling	Warm and Humid	Silty	Swarna	6.8	50	High	40	104	4034	Mild
+East Africa	Leaf Curling	Rainy	Loamy	Pusa Basmati	6.1	70	Medium	29	293	4582	Moderate
+West Africa	Leaf Curling	Dry and Hot	Loamy	WAB-56	7	131	High	27	277	5180	Severe
+Southeast Asia	Leaf Curling	Dry and Hot	Loamy	WAB-56	6.1	72	Low	29	118	3575	Severe
+West Africa	Poor Grain Filling	Temperate	Alluvial	Basmati	6	119	Medium	26	149	4283	Moderate
+South Asia	Leaf Yellowing	Hot and Dry	Loamy	TKM 9	5.7	121	Medium	31	160	4023	Severe
+East Africa	Yellowing Leaves	Humid	Silty	IR64	6.7	130	Medium	29	63	4995	Severe
+East Asia	Leaf Curling	Warm and Humid	Sandy	Basmati	7	118	High	40	228	4876	Mild
+Central Africa	Leaf Yellowing	Warm and Humid	Sandy	Basmati	6.9	116	Low	30	143	4077	Moderate
+Central America	Leaf Curling	Warm and Humid	Loamy	Jasmine	5.1	149	High	33	173	4254	Moderate
+South India	Stunted Growth	Humid	Silty	Basmati	5.4	138	High	40	175	4585	Mild
+Central Africa	Weak Straw	Temperate	Clayey	IR36	6.2	116	Low	27	234	4643	Mild
+East Asia	Leaf Yellowing	Wet and Cloudy	Alluvial	Pusa Basmati	6.4	50	High	37	207	4444	Mild
+South Asia	Reduced Grain Size	Humid	Silty	TKM 9	6.3	88	Medium	26	91	3779	Mild
+South India	Reduced Grain Size	Wet and Cloudy	Loamy	Pusa Basmati	5.9	51	High	37	260	4168	Mild
+Central Africa	Leaf Yellowing	Hot and Dry	Loamy	Jasmine	5.3	120	High	39	226	3741	Mild
+South Asia	Leaf Curling	Dry and Hot	Silty	Pusa Basmati	5.2	75	Medium	27	206	4737	Moderate
+Southeast Asia	Stunted Growth	Warm and Humid	Silty	Swarna	5.2	148	Medium	34	58	4274	Mild
+Central Africa	Leaf Curling	Warm and Humid	Silty	Pusa Basmati	5.8	84	High	39	95	3845	Severe
+South America	Stunted Growth	Warm and Humid	Loamy	Pusa Basmati	6.5	129	High	34	114	3815	Severe
+Southeast Asia	Stunted Growth	Warm and Humid	Clayey	TKM 9	6	105	High	38	195	4074	Mild
+South America	Reduced Grain Size	Warm and Humid	Alluvial	IR64	5.7	142	Medium	30	82	4675	Severe
+Central America	Leaf Curling	Dry and Hot	Clayey	TKM 9	6.1	105	High	29	200	5126	Severe
+East Asia	Yellowing Leaves	Warm and Humid	Loamy	Pusa Basmati	6	67	Medium	30	297	4011	Mild
+East Asia	Leaf Curling	Warm and Humid	Clayey	TKM 9	5.6	135	Low	26	259	3827	Mild
+East Asia	Reduced Grain Size	Wet and Cloudy	Loamy	WAB-56	6.6	136	High	30	248	4962	Severe
+East Africa	Leaf Yellowing	Warm and Humid	Loamy	Swarna	5.9	101	Medium	33	285	5466	Moderate
+Southeast Asia	Poor Grain Filling	Hot and Dry	Loamy	MTU 1010	7.1	72	Medium	39	179	4140	Severe
+Central Africa	Poor Grain Filling	Temperate	Clayey	WAB-56	5.7	119	Medium	37	165	5172	Mild
+South Asia	Leaf Curling	Humid	Clayey	WAB-56	5.9	70	Low	28	79	4100	Severe
+Central America	Leaf Curling	Wet and Cloudy	Clayey	TKM 9	5.7	80	Low	39	251	4561	Moderate
+South Asia	Weak Straw	Wet and Cloudy	Alluvial	Jasmine	5.8	61	Medium	27	293	3891	Moderate
+East Asia	Stunted Growth	Warm and Humid	Loamy	IR36	5.1	139	Medium	33	77	4508	Severe
+South America	Leaf Yellowing	Dry and Hot	Clayey	TKM 9	6.5	120	High	29	160	4235	Severe
+South America	Stunted Growth	Rainy	Alluvial	Swarna	5.7	71	Low	28	207	5393	Moderate
+East Asia	Weak Straw	Dry and Hot	Sandy	Swarna	7.4	90	Medium	26	249	4308	Mild
+East Africa	Leaf Yellowing	Hot and Dry	Alluvial	Swarna	6.5	103	Medium	40	103	5374	Moderate
+Central Africa	Leaf Curling	Humid	Clayey	Basmati	5.1	75	Low	34	105	4874	Mild
+Central America	Weak Straw	Rainy	Sandy	Swarna	6.2	135	Low	39	204	3606	Severe
+Southeast Asia	Poor Grain Filling	Warm and Humid	Silty	Jasmine	6.1	127	High	35	249	3675	Mild
+Southeast Asia	Stunted Growth	Rainy	Alluvial	Pusa Basmati	5.7	102	High	28	254	3535	Mild
+Southeast Asia	Leaf Yellowing	Humid	Sandy	Swarna	5.6	54	Medium	30	283	4540	Moderate
+Central Africa	Poor Grain Filling	Humid	Clayey	Basmati	5	128	High	38	118	3527	Mild
+South America	Reduced Grain Size	Hot and Dry	Loamy	IR36	5.5	80	Medium	34	245	5483	Moderate
+Southeast Asia	Leaf Yellowing	Hot and Dry	Clayey	Basmati	5.4	127	Low	33	61	4874	Severe
+Southeast Asia	Leaf Yellowing	Temperate	Silty	WAB-56	5.8	93	High	25	216	3591	Moderate
+Southeast Asia	Weak Straw	Hot and Dry	Sandy	IR64	6.2	150	Medium	39	122	4841	Severe
+Central Africa	Leaf Curling	Humid	Silty	Basmati	5.1	58	Low	40	242	3529	Severe
+South America	Reduced Grain Size	Temperate	Loamy	MTU 1010	5.1	84	Medium	33	138	4565	Mild
+East Asia	Stunted Growth	Rainy	Loamy	MTU 1010	5.2	147	Low	31	182	4598	Severe
+Central Africa	Poor Grain Filling	Temperate	Loamy	IR36	5.3	102	High	39	203	3880	Moderate
+East Asia	Leaf Curling	Warm and Humid	Silty	Basmati	5.9	69	High	32	114	5267	Severe
+East Africa	Leaf Curling	Humid	Loamy	TKM 9	6	60	Medium	30	61	4663	Moderate
+Southeast Asia	Stunted Growth	Rainy	Alluvial	MTU 1010	5.7	150	Low	37	115	4854	Severe
+Southeast Asia	Leaf Curling	Warm and Humid	Alluvial	Basmati	6.6	57	Low	29	281	4694	Mild
+South America	Leaf Yellowing	Temperate	Clayey	Basmati	6.1	87	Low	26	88	4226	Severe
+South America	Poor Grain Filling	Temperate	Loamy	IR64	6.9	82	Medium	39	128	5291	Severe
+Central America	Leaf Yellowing	Wet and Cloudy	Loamy	Jasmine	6.9	96	Low	34	293	4336	Mild
+South Asia	Weak Straw	Humid	Silty	Basmati	6.8	139	Low	32	93	5097	Moderate
+Southeast Asia	Weak Straw	Rainy	Loamy	Basmati	6.9	150	Medium	38	239	4385	Severe
+South America	Reduced Grain Size	Wet and Cloudy	Clayey	IR36	6.5	72	Medium	30	100	5165	Moderate
+East Africa	Weak Straw	Temperate	Silty	Jasmine	6.9	57	Medium	34	230	3704	Severe
+East Africa	Yellowing Leaves	Temperate	Loamy	IR64	5.6	57	Low	27	282	4718	Mild
+South Asia	Yellowing Leaves	Wet and Cloudy	Silty	TKM 9	6.1	123	Low	25	74	4972	Mild
+West Africa	Poor Grain Filling	Humid	Loamy	IR64	6.3	55	Low	32	100	3755	Moderate
+South India	Weak Straw	Warm and Humid	Sandy	Pusa Basmati	5.1	77	Medium	34	246	3891	Moderate
+South America	Stunted Growth	Wet and Cloudy	Clayey	TKM 9	6.3	95	High	27	217	5178	Mild
+Southeast Asia	Poor Grain Filling	Wet and Cloudy	Sandy	WAB-56	5.3	66	Medium	30	155	4050	Moderate
+East Asia	Poor Grain Filling	Rainy	Clayey	TKM 9	6.9	132	Medium	40	211	3736	Moderate
+East Asia	Weak Straw	Humid	Silty	IR64	5.3	133	Low	35	129	4766	Severe
+Central Africa	Stunted Growth	Rainy	Alluvial	WAB-56	5.3	141	High	28	69	5275	Mild
+South India	Weak Straw	Humid	Loamy	TKM 9	6	138	Low	38	57	4162	Mild
+South India	Weak Straw	Hot and Dry	Clayey	Swarna	7.2	130	Low	32	81	3726	Mild
+East Africa	Stunted Growth	Wet and Cloudy	Sandy	WAB-56	7.2	94	Low	39	161	3856	Moderate
+South America	Weak Straw	Hot and Dry	Clayey	Swarna	6.1	65	High	40	223	3810	Severe
+West Africa	Reduced Grain Size	Rainy	Silty	MTU 1010	5.5	134	Medium	37	200	5277	Mild
+Central Africa	Yellowing Leaves	Rainy	Loamy	Basmati	5.9	51	Medium	36	267	4103	Severe
+Central Africa	Leaf Yellowing	Dry and Hot	Loamy	IR64	5.5	112	High	34	238	4908	Severe
+Southeast Asia	Reduced Grain Size	Wet and Cloudy	Sandy	WAB-56	5.3	113	High	34	287	5288	Mild
+Central Africa	Yellowing Leaves	Dry and Hot	Sandy	Swarna	7.5	143	Medium	27	55	3657	Moderate
+Central America	Weak Straw	Wet and Cloudy	Loamy	IR64	6.7	57	Medium	38	168	4362	Mild
+Central Africa	Reduced Grain Size	Dry and Hot	Loamy	TKM 9	5.8	84	Low	33	234	4536	Severe
+Central America	Poor Grain Filling	Hot and Dry	Alluvial	MTU 1010	7.2	89	Medium	32	252	4748	Mild
+South Asia	Yellowing Leaves	Rainy	Silty	WAB-56	5.4	72	High	38	82	4402	Mild
+Central Africa	Leaf Yellowing	Hot and Dry	Silty	Basmati	6.9	57	Medium	28	226	4411	Severe
+South India	Reduced Grain Size	Hot and Dry	Clayey	Swarna	7.4	115	Low	32	75	4692	Severe
+East Africa	Weak Straw	Rainy	Alluvial	IR36	6.5	82	High	26	63	4983	Severe
+South India	Weak Straw	Warm and Humid	Loamy	Swarna	5.1	118	Low	34	88	4573	Mild
+South America	Stunted Growth	Dry and Hot	Sandy	MTU 1010	6.3	62	High	31	207	5362	Severe
+South America	Stunted Growth	Wet and Cloudy	Alluvial	Swarna	7	150	High	25	63	4033	Mild
+South India	Weak Straw	Warm and Humid	Silty	Swarna	7.4	55	Low	40	62	3946	Severe
+South Asia	Yellowing Leaves	Temperate	Silty	Jasmine	5.6	90	High	35	84	4829	Moderate
+Central America	Leaf Yellowing	Warm and Humid	Silty	Basmati	5.2	52	Medium	37	205	4992	Severe
+South America	Poor Grain Filling	Dry and Hot	Loamy	Pusa Basmati	6.1	60	Low	26	60	5050	Mild
+East Africa	Poor Grain Filling	Warm and Humid	Loamy	Pusa Basmati	5.5	125	Medium	29	163	3754	Moderate
+South Asia	Reduced Grain Size	Wet and Cloudy	Loamy	WAB-56	6.9	55	High	28	70	4915	Moderate
+South India	Leaf Yellowing	Dry and Hot	Alluvial	Jasmine	6.7	97	Medium	25	122	4866	Moderate
+Southeast Asia	Yellowing Leaves	Hot and Dry	Sandy	TKM 9	6.4	123	Low	28	202	3802	Mild
+Southeast Asia	Yellowing Leaves	Warm and Humid	Loamy	IR36	6.4	115	Low	31	269	4462	Mild
+West Africa	Leaf Curling	Rainy	Silty	Pusa Basmati	7.4	140	Low	37	226	4496	Mild
+Central Africa	Leaf Curling	Humid	Clayey	Swarna	6.5	124	Low	30	173	4564	Mild
+East Asia	Reduced Grain Size	Temperate	Sandy	IR36	6.8	82	Low	30	251	4221	Mild
+Central America	Leaf Curling	Hot and Dry	Clayey	Jasmine	6.5	147	Medium	34	222	4512	Mild
+East Asia	Leaf Yellowing	Hot and Dry	Clayey	IR64	7.4	142	Medium	32	268	4081	Moderate
+West Africa	Leaf Yellowing	Warm and Humid	Loamy	IR36	6.1	59	Low	27	63	5076	Severe
+East Africa	Leaf Yellowing	Humid	Alluvial	WAB-56	5.2	95	High	35	145	4460	Severe
+South Asia	Yellowing Leaves	Hot and Dry	Clayey	Pusa Basmati	7.4	130	Low	32	216	4223	Mild
+Central Africa	Weak Straw	Hot and Dry	Loamy	Jasmine	5.5	146	Medium	27	165	4997	Mild
+South Asia	Leaf Curling	Wet and Cloudy	Loamy	Basmati	6.5	146	High	32	214	3512	Severe
+East Africa	Stunted Growth	Rainy	Loamy	TKM 9	6.5	53	High	37	133	5249	Mild
+East Africa	Weak Straw	Humid	Silty	IR36	5.4	78	Low	28	267	5011	Moderate
+West Africa	Poor Grain Filling	Rainy	Loamy	MTU 1010	5.5	53	Medium	32	173	3522	Mild
+East Africa	Leaf Curling	Hot and Dry	Loamy	IR36	6.9	63	Medium	28	197	5346	Severe
+Central Africa	Leaf Yellowing	Dry and Hot	Loamy	Swarna	6	124	Low	32	105	5107	Severe
+South India	Reduced Grain Size	Humid	Sandy	IR64	6.1	86	Medium	35	87	4235	Mild
+South Asia	Poor Grain Filling	Warm and Humid	Clayey	Swarna	6.5	100	Medium	26	165	4531	Moderate
+Central America	Reduced Grain Size	Hot and Dry	Sandy	Swarna	6.6	132	Medium	26	135	4895	Severe
+South America	Leaf Curling	Rainy	Sandy	Swarna	5.3	110	High	37	264	4498	Severe
+South America	Poor Grain Filling	Wet and Cloudy	Silty	Pusa Basmati	5.4	144	Low	31	254	4377	Severe
+East Africa	Poor Grain Filling	Hot and Dry	Sandy	Pusa Basmati	5.3	108	Low	28	240	3538	Mild
+East Asia	Reduced Grain Size	Dry and Hot	Alluvial	MTU 1010	6.7	106	Medium	36	148	3622	Moderate
+West Africa	Stunted Growth	Dry and Hot	Alluvial	IR64	5.7	79	Medium	29	121	4659	Severe
+East Africa	Reduced Grain Size	Wet and Cloudy	Clayey	Jasmine	7.5	146	High	26	132	4849	Mild
+East Africa	Reduced Grain Size	Wet and Cloudy	Alluvial	WAB-56	7.3	79	Low	36	212	4309	Mild
+East Africa	Leaf Curling	Hot and Dry	Sandy	WAB-56	6	132	Medium	32	107	3762	Mild
+South Asia	Stunted Growth	Wet and Cloudy	Alluvial	TKM 9	6.4	109	Low	30	270	4147	Moderate
+East Asia	Stunted Growth	Rainy	Alluvial	Pusa Basmati	6.2	78	Medium	40	131	4765	Mild
+South America	Stunted Growth	Temperate	Loamy	Pusa Basmati	5.1	105	Low	32	181	5023	Mild
+West Africa	Poor Grain Filling	Humid	Loamy	Swarna	7.3	68	Medium	39	127	4368	Moderate
+Southeast Asia	Leaf Curling	Warm and Humid	Silty	IR36	6.1	85	Medium	30	60	3647	Severe
+East Africa	Leaf Curling	Rainy	Silty	WAB-56	6	143	Medium	30	103	5357	Severe
+West Africa	Leaf Curling	Warm and Humid	Silty	TKM 9	7.4	107	Medium	38	198	4544	Mild
+West Africa	Reduced Grain Size	Humid	Sandy	MTU 1010	5.1	114	High	36	101	3552	Mild
+South India	Leaf Curling	Hot and Dry	Loamy	IR36	6.8	51	Low	25	249	4685	Moderate
+East Asia	Yellowing Leaves	Temperate	Clayey	Basmati	6.8	115	Medium	40	51	4478	Severe
+Central Africa	Reduced Grain Size	Humid	Clayey	IR64	6.4	110	Medium	33	94	5015	Mild
+South Asia	Poor Grain Filling	Wet and Cloudy	Loamy	TKM 9	6	147	Low	40	159	3516	Severe
+South India	Poor Grain Filling	Temperate	Silty	IR64	6.6	59	Low	28	202	4400	Severe
+Central America	Leaf Curling	Wet and Cloudy	Silty	Jasmine	7.3	87	Medium	32	193	4243	Severe
+Central Africa	Reduced Grain Size	Dry and Hot	Loamy	Basmati	5.9	106	Low	37	136	5026	Moderate
+Central Africa	Reduced Grain Size	Wet and Cloudy	Alluvial	MTU 1010	5.5	114	High	34	195	5283	Mild
+Southeast Asia	Yellowing Leaves	Humid	Clayey	Pusa Basmati	6.4	57	Low	31	144	3518	Mild
+South Asia	Leaf Curling	Rainy	Silty	MTU 1010	7.1	116	Low	25	150	5207	Severe
+Central Africa	Yellowing Leaves	Dry and Hot	Loamy	IR64	6.1	103	Low	37	52	4299	Mild
+Southeast Asia	Stunted Growth	Dry and Hot	Alluvial	IR36	5.5	64	High	39	246	5384	Severe
+South India	Stunted Growth	Warm and Humid	Alluvial	IR36	5.4	110	High	28	192	3877	Mild
+Central America	Poor Grain Filling	Warm and Humid	Alluvial	IR64	6.4	68	High	35	101	4662	Severe
+West Africa	Stunted Growth	Rainy	Loamy	Swarna	5.1	69	High	31	140	3527	Moderate
+East Asia	Leaf Curling	Hot and Dry	Silty	IR36	7.2	127	Medium	36	286	3530	Mild
+South Asia	Yellowing Leaves	Warm and Humid	Clayey	IR36	5.6	146	Medium	25	123	4076	Moderate
+South India	Reduced Grain Size	Wet and Cloudy	Alluvial	Swarna	5.2	56	High	33	160	4593	Mild
+Central America	Leaf Yellowing	Hot and Dry	Silty	Basmati	5.5	110	High	39	156	3971	Moderate
+Central America	Reduced Grain Size	Temperate	Silty	IR64	6.5	146	Medium	37	161	5181	Moderate
+Central America	Leaf Curling	Dry and Hot	Silty	Pusa Basmati	7.5	52	High	37	56	4241	Moderate
+South America	Yellowing Leaves	Rainy	Clayey	IR36	7.1	145	High	25	125	4564	Mild
+South Asia	Yellowing Leaves	Wet and Cloudy	Loamy	Jasmine	6.5	107	Low	40	298	3556	Severe
+South India	Leaf Curling	Dry and Hot	Silty	IR64	6.8	116	High	37	168	3821	Moderate
+Central America	Leaf Curling	Wet and Cloudy	Loamy	IR36	7.2	81	Low	31	271	4614	Moderate
+Southeast Asia	Leaf Curling	Hot and Dry	Loamy	Basmati	6	58	Low	39	214	5089	Mild
+South India	Yellowing Leaves	Humid	Loamy	Swarna	6.8	84	High	34	134	5479	Severe
+Central Africa	Stunted Growth	Rainy	Silty	Swarna	7.3	77	Medium	36	139	3706	Mild
+Central America	Reduced Grain Size	Dry and Hot	Alluvial	MTU 1010	5.9	125	Medium	32	126	5206	Mild
+South Asia	Leaf Yellowing	Wet and Cloudy	Loamy	MTU 1010	5.5	138	High	32	215	4437	Mild
+West Africa	Poor Grain Filling	Warm and Humid	Silty	TKM 9	6.4	99	Low	40	240	5357	Mild
+East Asia	Yellowing Leaves	Temperate	Loamy	IR36	5.8	62	High	27	241	5292	Moderate
+East Africa	Leaf Curling	Temperate	Sandy	WAB-56	7	124	Medium	31	84	4829	Moderate
+West Africa	Stunted Growth	Humid	Loamy	IR36	5.5	64	High	33	269	3883	Moderate
+Central Africa	Yellowing Leaves	Rainy	Sandy	IR36	6	69	Medium	32	197	3523	Severe
+South America	Yellowing Leaves	Humid	Sandy	MTU 1010	6.1	99	High	36	123	4896	Moderate
+South Asia	Leaf Curling	Temperate	Loamy	IR64	5.5	103	Medium	27	231	5328	Moderate
+West Africa	Leaf Yellowing	Humid	Loamy	Jasmine	7	91	High	32	269	4406	Moderate
+West Africa	Yellowing Leaves	Temperate	Sandy	IR64	5.1	93	High	35	297	3760	Severe
+West Africa	Weak Straw	Humid	Silty	Jasmine	7.5	72	Medium	28	148	4537	Mild
+Central Africa	Stunted Growth	Warm and Humid	Silty	MTU 1010	5.2	143	Low	27	180	3571	Mild
+Central Africa	Yellowing Leaves	Wet and Cloudy	Sandy	Basmati	5.8	123	Low	33	241	5032	Severe
+South India	Weak Straw	Humid	Silty	TKM 9	7.2	74	High	30	195	4498	Mild
+West Africa	Yellowing Leaves	Temperate	Alluvial	Jasmine	5.4	137	Medium	26	73	5155	Mild
+West Africa	Leaf Curling	Hot and Dry	Silty	MTU 1010	6.2	127	High	35	225	4399	Severe
+South India	Yellowing Leaves	Humid	Sandy	Pusa Basmati	7.5	69	High	37	61	4230	Moderate
+South Asia	Poor Grain Filling	Dry and Hot	Sandy	Basmati	5.3	70	Low	31	127	5380	Mild
+South Asia	Reduced Grain Size	Dry and Hot	Clayey	TKM 9	6.7	131	Medium	34	165	4853	Moderate
+West Africa	Leaf Curling	Hot and Dry	Silty	Swarna	5.1	138	Low	28	193	4663	Mild
+East Asia	Weak Straw	Hot and Dry	Clayey	Jasmine	5.3	116	Low	40	251	4518	Mild
+East Asia	Leaf Curling	Hot and Dry	Silty	WAB-56	5.8	94	Medium	39	63	4168	Severe
+South America	Reduced Grain Size	Humid	Sandy	Basmati	5.4	133	High	37	184	4494	Mild
+South Asia	Stunted Growth	Rainy	Alluvial	WAB-56	5.7	121	Low	35	96	4612	Mild
+East Africa	Reduced Grain Size	Temperate	Sandy	Pusa Basmati	6	50	Medium	30	196	4735	Moderate
+Southeast Asia	Poor Grain Filling	Hot and Dry	Alluvial	WAB-56	5.5	88	Low	32	82	5293	Moderate
+Southeast Asia	Weak Straw	Hot and Dry	Loamy	Pusa Basmati	7.5	57	Low	39	263	4023	Moderate
+South America	Poor Grain Filling	Wet and Cloudy	Loamy	Swarna	5.2	94	Medium	36	297	5282	Moderate
+Central America	Stunted Growth	Wet and Cloudy	Loamy	Basmati	6.9	62	High	25	182	3692	Moderate
+East Africa	Leaf Yellowing	Rainy	Silty	Swarna	6.1	141	Low	25	62	4574	Mild
+Central America	Poor Grain Filling	Rainy	Silty	IR36	6.8	92	High	35	111	4499	Severe
+South America	Weak Straw	Warm and Humid	Sandy	IR64	7	125	Medium	35	184	3618	Mild
+Central Africa	Yellowing Leaves	Humid	Alluvial	IR36	5.3	68	High	31	277	4103	Moderate
+East Asia	Reduced Grain Size	Temperate	Sandy	IR36	7.1	144	Low	37	194	5207	Mild
+Southeast Asia	Leaf Curling	Warm and Humid	Sandy	Swarna	6	66	Medium	36	231	3953	Mild
+East Africa	Reduced Grain Size	Temperate	Clayey	Basmati	5.3	54	Medium	28	107	5255	Severe
+South Asia	Yellowing Leaves	Wet and Cloudy	Clayey	Basmati	5.8	55	Low	40	138	4078	Moderate
+East Asia	Poor Grain Filling	Dry and Hot	Loamy	IR64	7.4	111	Low	26	155	4410	Moderate
+South India	Weak Straw	Warm and Humid	Loamy	Pusa Basmati	5.8	144	Low	28	202	4085	Moderate
+South India	Leaf Curling	Dry and Hot	Sandy	Jasmine	6.8	107	Medium	38	157	3787	Mild
+Central Africa	Leaf Curling	Humid	Alluvial	TKM 9	6.7	98	Medium	31	139	4331	Severe
+Central America	Yellowing Leaves	Wet and Cloudy	Sandy	Jasmine	6	74	High	40	177	4170	Moderate
+East Asia	Stunted Growth	Hot and Dry	Alluvial	MTU 1010	5.6	67	High	35	74	3795	Severe
+South India	Poor Grain Filling	Temperate	Clayey	Pusa Basmati	5.3	60	Low	37	244	3748	Severe
+East Africa	Leaf Yellowing	Humid	Clayey	IR36	7.2	95	Low	33	158	4205	Severe
+South America	Poor Grain Filling	Wet and Cloudy	Clayey	Swarna	7	71	Medium	37	188	5247	Mild
+Central America	Stunted Growth	Wet and Cloudy	Silty	Basmati	5.6	70	Medium	39	225	3516	Mild
+Central Africa	Weak Straw	Warm and Humid	Silty	Jasmine	6.7	150	Medium	32	197	3505	Mild
+Southeast Asia	Leaf Curling	Hot and Dry	Alluvial	Pusa Basmati	6.2	68	High	29	145	5166	Mild
+Central America	Leaf Yellowing	Temperate	Silty	IR64	7.4	61	Low	29	50	4422	Mild
+Southeast Asia	Leaf Yellowing	Rainy	Silty	Basmati	6.5	93	Medium	32	257	3672	Moderate
+South Asia	Leaf Curling	Hot and Dry	Sandy	Jasmine	5.9	145	Low	38	59	3517	Severe
+South India	Poor Grain Filling	Dry and Hot	Clayey	IR64	5.3	104	High	37	233	3646	Severe
+Southeast Asia	Yellowing Leaves	Dry and Hot	Sandy	MTU 1010	6.4	139	High	32	276	4871	Mild
+South India	Poor Grain Filling	Temperate	Sandy	Pusa Basmati	6.8	74	Low	35	61	3893	Mild
+Southeast Asia	Poor Grain Filling	Temperate	Alluvial	IR64	5.4	101	Medium	40	120	5194	Severe
+West Africa	Leaf Curling	Warm and Humid	Sandy	WAB-56	5.8	106	Low	35	53	4213	Mild
+East Africa	Stunted Growth	Rainy	Alluvial	Jasmine	6.7	122	Medium	27	176	5340	Severe
+East Asia	Stunted Growth	Hot and Dry	Silty	Pusa Basmati	6.1	99	Low	37	150	3555	Moderate
+South Asia	Poor Grain Filling	Rainy	Loamy	Jasmine	6	141	Low	35	222	3664	Moderate
+South Asia	Stunted Growth	Warm and Humid	Loamy	Pusa Basmati	7.3	107	Low	34	219	4666	Severe
+Central Africa	Reduced Grain Size	Humid	Sandy	IR64	6.6	61	Medium	33	154	4731	Severe
+Southeast Asia	Poor Grain Filling	Wet and Cloudy	Loamy	Basmati	5.1	95	High	37	194	5013	Severe
+South India	Yellowing Leaves	Rainy	Silty	WAB-56	6.6	125	High	29	276	4786	Moderate
+South Asia	Weak Straw	Dry and Hot	Alluvial	IR36	5.8	85	High	38	127	4809	Moderate
+West Africa	Leaf Yellowing	Hot and Dry	Sandy	IR36	5.8	99	Medium	25	137	5107	Moderate
+East Asia	Leaf Yellowing	Wet and Cloudy	Loamy	Swarna	6.9	141	Low	34	262	5430	Mild
+West Africa	Stunted Growth	Temperate	Clayey	Jasmine	5.3	95	High	40	159	5422	Moderate
+West Africa	Yellowing Leaves	Humid	Loamy	WAB-56	6.7	134	Low	28	128	4274	Severe
+East Africa	Yellowing Leaves	Rainy	Sandy	Swarna	6.4	76	Medium	40	170	5034	Severe
+South India	Leaf Curling	Temperate	Alluvial	TKM 9	5.2	145	High	28	118	3738	Severe
+Southeast Asia	Leaf Curling	Humid	Loamy	IR64	7.1	73	High	28	168	4265	Moderate
+South India	Yellowing Leaves	Rainy	Sandy	Jasmine	7.1	88	High	27	224	5352	Severe
+West Africa	Stunted Growth	Temperate	Alluvial	IR64	5.7	57	Low	25	257	4620	Moderate
+Central America	Yellowing Leaves	Hot and Dry	Alluvial	IR64	6.8	117	High	25	139	4019	Moderate
+West Africa	Yellowing Leaves	Wet and Cloudy	Loamy	Basmati	7	86	Low	37	247	3726	Severe
+South India	Poor Grain Filling	Warm and Humid	Clayey	TKM 9	6.6	57	High	25	165	4262	Moderate
+West Africa	Leaf Curling	Temperate	Alluvial	MTU 1010	5.1	145	High	31	172	4699	Mild
+Central Africa	Yellowing Leaves	Rainy	Silty	TKM 9	6.3	120	Low	38	65	3808	Severe
+East Asia	Leaf Curling	Warm and Humid	Alluvial	Swarna	7.1	143	High	36	214	3639	Severe
+Southeast Asia	Poor Grain Filling	Humid	Alluvial	Basmati	7.3	72	Low	32	290	4562	Severe
+South America	Yellowing Leaves	Humid	Loamy	Jasmine	5.5	80	High	27	85	4367	Moderate
+South India	Weak Straw	Wet and Cloudy	Sandy	Jasmine	7.2	72	Medium	40	176	4758	Mild
+East Africa	Weak Straw	Wet and Cloudy	Clayey	Pusa Basmati	6.7	101	Medium	34	265	3860	Moderate
+Southeast Asia	Poor Grain Filling	Rainy	Alluvial	IR64	5.4	135	Low	27	72	4304	Severe
+South America	Stunted Growth	Humid	Clayey	Basmati	6.9	150	High	39	175	5115	Moderate
+South Asia	Yellowing Leaves	Wet and Cloudy	Silty	Pusa Basmati	6.3	55	Low	39	54	3825	Moderate
+Central America	Yellowing Leaves	Wet and Cloudy	Silty	Pusa Basmati	5.7	134	High	29	284	3703	Moderate
+East Asia	Stunted Growth	Humid	Silty	Basmati	6	60	Medium	34	140	4583	Mild
+South America	Weak Straw	Humid	Loamy	Swarna	7.4	60	Low	32	143	4781	Moderate
+East Africa	Reduced Grain Size	Rainy	Alluvial	Swarna	5.7	64	Medium	30	105	5030	Mild
+East Africa	Leaf Yellowing	Warm and Humid	Silty	Basmati	7	76	Low	34	120	4789	Severe
+South Asia	Leaf Yellowing	Temperate	Alluvial	Pusa Basmati	6.1	107	Medium	40	81	4762	Mild
+West Africa	Reduced Grain Size	Humid	Alluvial	Basmati	5.1	128	Medium	39	105	3666	Severe
+Southeast Asia	Leaf Curling	Rainy	Sandy	IR64	5.2	101	Low	37	114	4327	Moderate
+West Africa	Stunted Growth	Hot and Dry	Silty	IR64	6.7	65	Medium	27	72	3659	Moderate
+East Africa	Poor Grain Filling	Warm and Humid	Silty	Jasmine	6.7	52	Medium	34	195	3663	Severe
+South India	Reduced Grain Size	Wet and Cloudy	Sandy	Basmati	6	104	Medium	28	109	4212	Mild
+East Asia	Weak Straw	Rainy	Silty	IR36	6.1	135	Low	35	289	5072	Mild
+South America	Weak Straw	Wet and Cloudy	Silty	IR64	6.4	140	High	38	113	5077	Moderate
+South India	Leaf Yellowing	Hot and Dry	Clayey	MTU 1010	7.1	76	Medium	32	60	5104	Severe
+South India	Weak Straw	Rainy	Clayey	TKM 9	5.4	59	High	36	223	5010	Moderate
+East Africa	Leaf Curling	Hot and Dry	Silty	MTU 1010	5.6	51	Medium	40	87	5445	Moderate
+East Africa	Reduced Grain Size	Dry and Hot	Clayey	Basmati	5.8	74	Medium	36	249	4126	Severe
+South India	Leaf Yellowing	Temperate	Alluvial	Swarna	7.3	110	High	32	177	4799	Severe
+East Africa	Stunted Growth	Humid	Clayey	IR36	7.4	139	High	28	220	4436	Severe
+East Africa	Reduced Grain Size	Hot and Dry	Alluvial	Pusa Basmati	5.3	87	High	37	65	4734	Severe
+South America	Leaf Curling	Rainy	Silty	Basmati	5.1	53	Medium	30	293	4966	Severe
+West Africa	Stunted Growth	Hot and Dry	Sandy	Basmati	7.1	142	High	36	218	4844	Mild
+South Asia	Yellowing Leaves	Hot and Dry	Alluvial	Pusa Basmati	5.5	121	Medium	36	174	4093	Mild
+South America	Leaf Yellowing	Dry and Hot	Alluvial	Swarna	5.1	82	High	38	81	4692	Mild
+Southeast Asia	Leaf Yellowing	Warm and Humid	Alluvial	TKM 9	7.2	142	Medium	26	231	5015	Mild
+Central Africa	Stunted Growth	Humid	Alluvial	TKM 9	5.8	96	Low	34	225	5360	Moderate
+South Asia	Yellowing Leaves	Humid	Silty	Jasmine	5.7	70	High	30	133	4351	Severe
+East Asia	Leaf Curling	Wet and Cloudy	Sandy	Basmati	7.5	107	Low	31	59	4477	Mild
+West Africa	Leaf Yellowing	Warm and Humid	Silty	Basmati	5.9	96	High	37	131	3675	Moderate
+East Asia	Poor Grain Filling	Dry and Hot	Sandy	Swarna	5.8	53	Medium	31	96	5394	Moderate
+South India	Weak Straw	Hot and Dry	Sandy	MTU 1010	6.2	116	High	29	169	5483	Severe
+South America	Poor Grain Filling	Dry and Hot	Silty	MTU 1010	5.7	79	Low	39	267	3973	Mild
+Southeast Asia	Reduced Grain Size	Dry and Hot	Clayey	Swarna	6.7	75	Medium	31	193	4320	Moderate
+East Africa	Stunted Growth	Temperate	Clayey	Swarna	6.4	63	Low	28	54	4790	Moderate
+South America	Stunted Growth	Temperate	Sandy	WAB-56	7.1	75	High	27	119	4396	Moderate
+West Africa	Poor Grain Filling	Wet and Cloudy	Loamy	IR64	6.1	71	Low	34	247	5361	Severe
+Central America	Yellowing Leaves	Humid	Silty	Basmati	6.3	128	Medium	31	53	4575	Mild
+Central Africa	Yellowing Leaves	Dry and Hot	Silty	Pusa Basmati	5.4	87	Medium	28	196	4447	Severe
+East Asia	Weak Straw	Hot and Dry	Loamy	Basmati	6.1	128	High	25	288	5377	Severe
+East Africa	Reduced Grain Size	Rainy	Silty	IR64	6.2	111	Low	35	206	3756	Mild
+East Asia	Stunted Growth	Warm and Humid	Alluvial	MTU 1010	7.5	74	Low	39	171	4091	Mild
+Central America	Stunted Growth	Humid	Sandy	TKM 9	7.3	56	High	29	263	3651	Severe
+Central Africa	Poor Grain Filling	Rainy	Loamy	IR36	6.1	67	Low	29	59	4770	Severe
+East Africa	Leaf Curling	Temperate	Silty	IR64	6.1	145	Medium	29	75	4104	Moderate
+East Asia	Poor Grain Filling	Warm and Humid	Alluvial	Basmati	7	97	High	29	136	4194	Moderate
+Central Africa	Yellowing Leaves	Wet and Cloudy	Sandy	TKM 9	6.6	135	Low	38	282	4638	Moderate
+Southeast Asia	Leaf Yellowing	Rainy	Alluvial	IR36	6.1	95	High	32	70	4822	Mild
+East Asia	Weak Straw	Humid	Loamy	WAB-56	6.6	62	Low	34	295	5203	Moderate
+East Asia	Leaf Curling	Rainy	Clayey	IR36	5.9	128	Medium	40	182	5320	Severe
+South India	Leaf Curling	Wet and Cloudy	Loamy	Basmati	6.9	128	High	26	85	3511	Moderate
+South India	Reduced Grain Size	Humid	Clayey	IR64	6.8	68	High	37	297	4527	Moderate
+East Africa	Poor Grain Filling	Rainy	Clayey	WAB-56	6.7	150	Low	31	279	3919	Moderate
+West Africa	Poor Grain Filling	Warm and Humid	Alluvial	Jasmine	6.3	138	Medium	37	111	5165	Moderate
+South India	Reduced Grain Size	Dry and Hot	Loamy	Pusa Basmati	6.9	50	Medium	32	106	5070	Severe
+Central Africa	Leaf Curling	Wet and Cloudy	Clayey	TKM 9	6.8	82	Low	27	150	4058	Mild
+South America	Stunted Growth	Temperate	Silty	IR64	7	84	Medium	34	218	4751	Moderate
+East Africa	Leaf Yellowing	Wet and Cloudy	Alluvial	MTU 1010	7.1	142	Low	32	80	3522	Mild
+South India	Stunted Growth	Humid	Clayey	Pusa Basmati	6.1	136	High	34	219	4406	Severe
+South America	Poor Grain Filling	Temperate	Loamy	WAB-56	7.4	85	Medium	29	216	3714	Mild
+East Africa	Leaf Curling	Warm and Humid	Silty	Basmati	5.9	149	Low	27	240	3506	Moderate
+South Asia	Leaf Yellowing	Humid	Clayey	Basmati	5.2	150	High	35	269	4993	Mild
+West Africa	Leaf Yellowing	Rainy	Loamy	Swarna	7.3	147	Low	36	291	4875	Mild
+Central America	Poor Grain Filling	Warm and Humid	Alluvial	Jasmine	6.2	124	High	38	285	4822	Moderate
+South India	Leaf Curling	Rainy	Sandy	WAB-56	6.7	79	Low	35	79	3978	Severe
+West Africa	Weak Straw	Dry and Hot	Clayey	Basmati	7.3	64	Low	29	184	5129	Mild
+South America	Leaf Yellowing	Dry and Hot	Loamy	WAB-56	7.3	64	Medium	31	267	4067	Severe
+South America	Leaf Yellowing	Warm and Humid	Clayey	Jasmine	6.1	91	Low	27	180	4975	Severe
+South Asia	Poor Grain Filling	Dry and Hot	Clayey	IR36	7.2	94	Low	29	202	3765	Moderate
+Central Africa	Poor Grain Filling	Rainy	Loamy	WAB-56	6.2	64	Medium	33	129	4020	Mild
+West Africa	Weak Straw	Wet and Cloudy	Alluvial	MTU 1010	6.4	95	Low	30	172	4372	Moderate
+West Africa	Leaf Curling	Wet and Cloudy	Loamy	Basmati	7.2	115	High	38	241	4841	Severe
+Central America	Yellowing Leaves	Hot and Dry	Alluvial	IR64	7.1	113	Low	29	216	3505	Severe
+East Africa	Leaf Yellowing	Dry and Hot	Loamy	IR36	7.4	143	Low	39	229	4684	Mild
+Central Africa	Yellowing Leaves	Hot and Dry	Loamy	WAB-56	6.2	99	High	29	57	4711	Moderate
+Central America	Weak Straw	Rainy	Silty	IR64	6.3	74	Low	39	60	4569	Moderate
+South India	Stunted Growth	Rainy	Silty	IR36	7	103	High	32	162	5199	Severe
+East Africa	Yellowing Leaves	Warm and Humid	Sandy	Pusa Basmati	5.2	112	Low	38	65	3731	Moderate
+Central America	Poor Grain Filling	Rainy	Clayey	Basmati	5.8	150	Medium	34	274	4461	Severe
+West Africa	Leaf Yellowing	Hot and Dry	Silty	Basmati	5.5	125	Low	34	179	5268	Severe
+Central America	Yellowing Leaves	Wet and Cloudy	Silty	Swarna	6.5	66	Medium	28	162	5107	Moderate
+Central Africa	Reduced Grain Size	Hot and Dry	Loamy	MTU 1010	7	83	High	33	163	5153	Mild
+South Asia	Weak Straw	Rainy	Loamy	IR36	5.3	120	High	34	201	3807	Moderate
+Southeast Asia	Leaf Yellowing	Wet and Cloudy	Clayey	Pusa Basmati	6.5	62	High	40	265	4304	Severe
+South Asia	Stunted Growth	Dry and Hot	Clayey	WAB-56	7.1	64	High	27	244	5252	Mild
+South India	Poor Grain Filling	Rainy	Silty	WAB-56	5.3	122	Low	40	99	5080	Severe
+South Asia	Weak Straw	Warm and Humid	Sandy	Basmati	6.5	65	Medium	28	110	4053	Mild
+Southeast Asia	Weak Straw	Hot and Dry	Silty	Jasmine	7.3	95	High	33	296	4485	Severe
+South India	Yellowing Leaves	Hot and Dry	Loamy	IR36	6.5	51	Medium	31	141	4373	Moderate
+South Asia	Stunted Growth	Hot and Dry	Sandy	WAB-56	6.3	56	Medium	38	201	5075	Moderate
+Central Africa	Yellowing Leaves	Rainy	Sandy	Swarna	7.2	139	High	32	249	3762	Moderate
+East Africa	Reduced Grain Size	Warm and Humid	Silty	IR36	7.5	148	Medium	27	217	3897	Moderate
+East Africa	Stunted Growth	Warm and Humid	Clayey	Jasmine	5.7	59	Low	27	96	4885	Mild
+West Africa	Leaf Curling	Rainy	Loamy	Pusa Basmati	5.5	86	High	29	178	5013	Severe
+South Asia	Stunted Growth	Warm and Humid	Alluvial	IR64	6.4	114	High	36	70	3773	Severe
